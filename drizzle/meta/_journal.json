@@ -8,6 +8,13 @@
       "when": 1788004446035,
       "tag": "0000_military_vampiro",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1788279727404,
+      "tag": "0001_stale_mister_sinister",
+      "breakpoints": true
     }
   ]
 }
